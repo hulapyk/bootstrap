@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAEA,EACE,SAAU,CACV,QAAS,CACT,qDAA4D","file":"styles.css","sourcesContent":["@import \"colors\";\r\n\r\n*{\r\n  padding: 0;\r\n  margin: 0;\r\n  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\r\n}\r\n"]}
